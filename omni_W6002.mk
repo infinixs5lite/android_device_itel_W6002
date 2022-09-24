@@ -18,8 +18,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := itel-W6002
-PRODUCT_NAME := omni_itel-W6002
+PRODUCT_DEVICE := W6002
+PRODUCT_NAME := omni_W6002
 PRODUCT_BRAND := Itel
 PRODUCT_MODEL := itel W6002
 PRODUCT_MANUFACTURER := itel
